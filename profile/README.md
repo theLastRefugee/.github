@@ -1,4 +1,4 @@
-# <img src="logo.png" style="zoom:10%;" />theLastRefugee 
+# theLastRefugee 
 **theLastRefugee** is an organization aiming at building intereseting and useful computer science projects, especially AI projects.
 
 
@@ -9,13 +9,22 @@
 
 <details>
 <summary align="left"> Our projects:</summary>
-- Visual Computing
-    - [NU-SSSR](https://github.com/theLastRefugee/NU-SSSR)
-    - [CarPlate-Recognition](https://github.com/theLastRefugee/CarPlate-Recognition)
-- Bioinformation
-	- [SSR](https://github.com/theLastRefugee/SSR)
+<ul>
+	
+<li> Visual Computing
+	<ul>
+	<li> <a href="https://github.com/theLastRefugee/NU-SSSR">NU-SSR</a> </li>
+	<li> <a href="https://github.com/theLastRefugee/CarPlate-Recognition">CarPlate-Recognition</a> </li>
+	</ul>
+	</li>
+<li>
+	Bioinformation
+	<ul>
+		<li>
+<a href="https://github.com/theLastRefugee/SSR">SSR</a>
+		</li>
+	</ul>
+	</li>
+	<ul>
      </details>
-
-
-
 
