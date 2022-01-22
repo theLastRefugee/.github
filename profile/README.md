@@ -6,6 +6,8 @@
 
 - Our member: [Yanjie Ze](https://yanjieze.com)
 
+- Reading Group:  [RL Theory Reading Group](https://thelastrefugee.github.io/rl-theory.github.io/)
+
 
 <details>
 <summary align="left"> Our projects:</summary>
