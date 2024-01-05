@@ -1,5 +1,5 @@
-# theLastRefugee 
-**theLastRefugee** is an organization aiming at building intereseting and useful computer science projects, especially AI projects.
+# theLast
+**theLast** is an organization aiming at building intereseting and useful computer science projects, especially AI projects.
 
 
 - Our belief: **Wir müssen wissen. Wir werden wissen.**
